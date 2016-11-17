@@ -1,0 +1,11 @@
+.jshintrc
+.lesson.yml
+CHANGELOG.md
+Gruntfile.js
+help.txt
+index.js
+package.json
+data/**
+lib/**
+node_modules
+tests/**
